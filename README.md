@@ -2,6 +2,8 @@
 
 ## Demos
 
+https://aquaproj.github.io/docs/demo
+
 * https://asciinema.org/a/457021
 * https://asciinema.org/a/498262
 
