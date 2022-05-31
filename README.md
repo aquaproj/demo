@@ -1,5 +1,10 @@
 # demo
 
+## Demos
+
+* https://asciinema.org/a/457021
+* https://asciinema.org/a/498262
+
 ## Prepare for demo
 
 * Checkout this repository
